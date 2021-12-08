@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Histoires pour Cameroun</title>
+    <description>Histoires pour Cameroun est une ressource éducative ouverte et gratuite qui encourage l’alphabétisation et l’apprentissage des langues dans les foyers, les écoles, et les collectivités qui présents 40 contes du Livre de contes africains disponibles en texte et en version audio en français, sango, et dans les langues plus largement parlées du Cameroun.
+</description>
+    <link>https://global-asp.github.io//storybooks-cameroun/</link>
+    <atom:link href="https://global-asp.github.io//storybooks-cameroun/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 08 Dec 2021 12:52:24 -0800</pubDate>
+    <lastBuildDate>Wed, 08 Dec 2021 12:52:24 -0800</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+  </channel>
+</rss>
